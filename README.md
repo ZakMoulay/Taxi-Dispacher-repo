@@ -4,5 +4,5 @@
 //  Display the total number of passnegers the entire company served.
 //  Dispaly each Taxi's calls and passengers count.
 //  Overload '+' and '<' operators for object computation.
-//  Store the report in a disk file.
+//  Store the report in a disk file
 
