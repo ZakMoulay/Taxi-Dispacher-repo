@@ -1,9 +1,4 @@
-//  main.cpp
-//  MAC125-Project4
-//  The program represents a taxi dispatcher system that randomly dispach a taxi
-//  The taxi dispatched will determin how many passagers it picked
-//  Display the total number of passnegers the entire company served
-//  Created by Zakaria Moulayrchid on 12/06/20.
+
 #include <iostream> // for streams
 #include <fstream>  // for file stream
 #include <string>   // for strings
